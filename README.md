@@ -1,16 +1,16 @@
-# Hi there, I'm Speeder! 🦅
+# Hi there, I'm Robin! 🦅
 
-🎓 **Embedded Systems & IoT Student** at Phelma
+🎓 **Embedded Systems & IoT Student** at Grenoble INP - Phelma
 
 🤖 Member of the **Robotronik Phelma** robotics club
 
-Welcome to my profile! I'm highly passionate about electronics, low-level programming, and building autonomous systems.
+Welcome to my profile! I'm highly passionate about embedded systems and software engineering.
 
 ---
 
 ### 🛠️ What I'm currently working on
 
-* 🏆 Gearing up for the **French Robotics Cup (CDFR) 2026**.
+* 🏆 Gearing up for the **French Robotics Cup (CDFR) and Eurobot 2027**.
 * 🧠 Developing the core code for our main robot.
 * ⚡ Designing our **PAMIs** from scratch (Hardware design & Programming).
 
@@ -22,6 +22,8 @@ Welcome to my profile! I'm highly passionate about electronics, low-level progra
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-2D2D2D?style=for-the-badge&logo=freecad&logoColor=white)
 
 ---
 
